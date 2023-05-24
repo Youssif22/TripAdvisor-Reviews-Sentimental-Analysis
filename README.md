@@ -1,6 +1,8 @@
 # TripAdvisor-Reviews-Sentimental-Analysis
 A notebook for the TripAdvisor 2023 Reviews Dataset applying sentimental analysis.
 
+You Can Find the dataset here: https://www.kaggle.com/datasets/arnabchaki/tripadvisor-reviews-2023
+
 - Created a documented comments in the code
 
 - Cleaned the dataset of any null values
